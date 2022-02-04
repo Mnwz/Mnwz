@@ -1,4 +1,4 @@
-### <h1>Olá</h1>👋
+### <h1>Olá 👋</h1>
 <p> Me chamo Marcos, tenho 22 anos e comecei a minha jornada na área da programação web front-end. </p>
 
 <!--
