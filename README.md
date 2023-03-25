@@ -1,4 +1,4 @@
-## Olá ! Eu sou o Marcos Orlando
+## Olá ! Eu sou o Marcos Orlando, estudante de Análise e Desenvolvimento de sistemas, programação front-end e apaixonado pela área da tecnologia. Futuramente irei me tornar um dev full-stack !
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mnwz&show_icons=true&theme=midnight-purple&count_private=true)"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnwz&theme=midnight-purple" </>
