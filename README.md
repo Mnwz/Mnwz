@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Marcos Orlando</h1>
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=FullStack+Developer;Computer+Systems+Analyst)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=FullStack+Developer;System+Analyst)](https://git.io/typing-svg)
 
 
 <p align="center"> <img
@@ -12,8 +12,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&
 
 <br />
 <br />
-### Work Experience
-In the overview below you will find my most recent work experience:
+<h3> Work Experience </h3>
+In the summary provided below, you'll discover my latest professional background:
 <br />
 <br />
 
@@ -29,7 +29,7 @@ Languages & Technologies: \
 <br />
 
 <p align="left">
-    **Get in touch**
+    <h3> Get in touch </h3>
 </p>
 
 
@@ -39,22 +39,23 @@ Languages & Technologies: \
 <br />
 <br />
 <div align=´center´>
-    <img height="200em"
+        <img height="200em"
         src="https://github-readme-stats.vercel.app/api?username=mnwz&show_icons=true&theme=midnight-purple&count_private=true)" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnwz&theme=midnight-purple"
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnwz&theme=midnight-purple"
         < />
-    <img height="200rem"
+        <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=mnwz&theme=midnight-purple"
+        alt="Marcos Orlando streak stats" />
+        <img height="200rem"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mnwz&show_icons=true&locale=en&layout=donut&theme=midnight-purple"
         alt="Marcos Orlando stats" />
-    <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=mnwz&theme=midnight-purple"
-        alt="Marcos Orlando streak stats" />
+
 </div>
 
 <br />
 <br />
 
 
-<h4>Main skills and tools: </h4>
+<h4>Main skills: </h4>
 <br>
 
 <p align="left">
@@ -65,7 +66,7 @@ Languages & Technologies: \
 <br />
 
 
-<h4>Basic skills and tools:</h4>
+<h4>Basic skills:</h4>
 
 <br>
 <p align="left">
