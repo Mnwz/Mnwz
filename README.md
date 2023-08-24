@@ -29,7 +29,7 @@ Languages & Technologies: \
 <br />
 
 <p align="left">
-    **Contact with me**
+    **Contact**
 </p>
 
 
