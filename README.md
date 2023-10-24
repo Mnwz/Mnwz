@@ -23,7 +23,7 @@ In the summary provided below, you'll discover my latest professional background
 **Full Stack Developer** \
 [**DealerSites**](https://dealersites.com.br) • Internship \
 Languages & Technologies: \
-`Javascript`, `Vue.Js`, `Git`, `PHP`, `Laravell`, `SASS`, `Bootstrap`, `Tailwind`, `MySQL`.
+`Javascript`, `Vue.Js`, `Git`, `PHP`, `Laravell`, `SASS`, `Bootstrap`, `Tailwind`, `MySQL`,`Docker`.
 
 <br />
 <br />
