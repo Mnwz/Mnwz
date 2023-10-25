@@ -26,6 +26,16 @@ Languages & Technologies: \
 `Javascript`, `Vue.Js`, `Git`, `PHP`, `Laravell`, `SASS`, `Bootstrap`, `Tailwind`, `MySQL`,`Docker`.
 
 <br />
+<br/>
+
+
+[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://i.imgur.com/bavRD1c.png"/>](https://descoinvest.vercel.app/)
+
+**Front-end Developer** \
+[**DescoInvest**](https://descoinvest.vercel.app/)  \
+Languages & Technologies: `React`, `Typescript`, `Git`, `React-Hook-Forms`,`Tailwind`, `Firebase`, `Storybook`,`Radix ui`
+
+<br/>
 <br />
 
 <p align="left">
