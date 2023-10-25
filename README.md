@@ -49,15 +49,9 @@ Languages & Technologies: \
 <br />
 <br />
 <div align=´center´>
-        <img height="200em"
-        src="https://github-readme-stats.vercel.app/api?username=mnwz&show_icons=true&theme=midnight-purple&count_private=true)" />
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnwz&theme=midnight-purple"
-        < />
-        <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=mnwz&theme=midnight-purple"
-        alt="Marcos Orlando streak stats" />
-        <img height="200rem"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mnwz&show_icons=true&locale=en&layout=donut&theme=midnight-purple"
-        alt="Marcos Orlando stats" />
+        <p>&nbsp;<img height="220em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=mnwz&show_icons=true&theme=midnight-purple&count_private=true)" alt="Marcos Orlando github stats" /></p>
+        <p><img height="200em" align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnwz&theme=midnight-purple" alt="Marcos Orlando most used languages" /></p>
+        <p><img height="200em"  align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnwz&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="jonathanferreirar" /></p>
 
 </div>
 
