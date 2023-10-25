@@ -29,7 +29,7 @@ Languages & Technologies: \
 <br/>
 
 
-[<img align="left" height="94px" width="160px" alt="Ignis Digital" src="https://i.imgur.com/bavRD1c.png"/>](https://descoinvest.vercel.app/)
+[<img align="left" height="90px" width="200px" alt="DescoInvest" src="https://i.imgur.com/bavRD1c.png"/>](https://descoinvest.vercel.app/)
 
 **Front-end Developer** \
 [**DescoInvest**](https://descoinvest.vercel.app/)  \
