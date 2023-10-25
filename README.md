@@ -33,7 +33,7 @@ Languages & Technologies: \
 **Front-end Developer** \
 [**DescoInvest**](https://descoinvest.vercel.app/)  \
 Languages & Technologies: \
-`React`, `Typescript`, `Git`, `React-Hook-Forms`, `Tailwind`, `Firebase`, `Storybook`, `Radix ui`
+`React`, `Typescript`, `Git`, `React-Hook-Forms`, `Tailwind`, `Storybook`, `Radix ui`
 
 <br/>
 <br />
