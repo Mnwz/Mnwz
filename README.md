@@ -28,12 +28,12 @@ Languages & Technologies: \
 <br />
 <br/>
 
-
 [<img align="left" height="90px" width="200px" alt="DescoInvest" src="https://i.imgur.com/bavRD1c.png"/>](https://descoinvest.vercel.app/)
 
 **Front-end Developer** \
 [**DescoInvest**](https://descoinvest.vercel.app/)  \
-Languages & Technologies: `React`, `Typescript`, `Git`, `React-Hook-Forms`,`Tailwind`, `Firebase`, `Storybook`,`Radix ui`
+Languages & Technologies: \
+`React`, `Typescript`, `Git`, `React-Hook-Forms`, `Tailwind`, `Firebase`, `Storybook`, `Radix ui`
 
 <br/>
 <br />
