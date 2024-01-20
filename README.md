@@ -7,9 +7,6 @@ SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=mnwz&label=Profile+views&color=blueviolet&style=plastic"
         alt="Marcos Orlando profile views" /> </p>
-
-- 📫 How to reach me **marcosorlandork@gmail.com**
-
 <br />
 <br />
 <h3> Work Experience </h3>
