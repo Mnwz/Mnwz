@@ -18,7 +18,7 @@ In the summary provided below, you'll discover my latest professional background
     src="https://i.imgur.com/XLkMs3I.png" />](https://dealersites.com.br)
 
 **Full Stack Developer** \
-[**DealerSites**](https://dealersites.com.br) • Internship \
+[**DealerSites**](https://dealersites.com.br) • Junior \
 Languages & Technologies: \
 `Javascript`, `Vue.Js`, `Git`, `PHP`, `Laravell`, `SASS`, `Bootstrap`, `Tailwind`, `MySQL`,`Docker`.
 
